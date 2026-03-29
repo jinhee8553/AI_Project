@@ -1,0 +1,5 @@
+Experiment,Accuracy
+SVM (No Scaling),0.6201117318435754
+StandardScaler + SVM,0.8156424581005587
+StandardScaler + KNN,0.8156424581005587
+MinMaxScaler + KNN,0.8100558659217877
