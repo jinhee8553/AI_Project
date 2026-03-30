@@ -40,3 +40,9 @@ baseline-titanic/
 ├── results/
 ├── README.md
 └── requirements.txt
+```
+
+## 실행 방법
+필요한 라이브러리를 설치합니다.
+Titanic 데이터를 data/ 폴더에 저장합니다.
+notebooks/ 또는 src/의 코드를 실행합니다.
